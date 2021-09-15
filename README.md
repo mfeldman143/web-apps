@@ -6,7 +6,7 @@ Angular 12 and image annotations
 Angular 9 and Webcam and Tensorflow.JS and custom-trained AutoML model for Machine Learning classification OpenCV for ISIC
 <a href="https://app.mrgoogol.com">https://app.mrgoogol.com</a>
 
-Angular 8 and Webcam and Streaming Tensorflow.JS and custom-trained AutoML model for Machine Learning object detection
+Angular 8 and Webcam Machine Learning object detection and Streaming Tensorflow.JS and custom-trained AutoML model and Lambda architecture
 <a href="https://app.darndimples.com">https://app.darndimples.com</a>
 
 Angular 5 and Mapbox and Geo-coordinates engine simulator
