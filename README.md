@@ -18,4 +18,4 @@ Accelerated Mobile Pages AMP and Progressive Web App PWA for IoT monitoring and 
 
 ### Support or Contact
 
-concat the following: m, feldman and 143 + @gmail.com
+https://twitter.com/Feldman1Michael
