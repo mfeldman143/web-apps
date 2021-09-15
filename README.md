@@ -9,7 +9,7 @@ Angular 9 and Webcam and Tensorflow.JS and custom-trained AutoML model for Machi
 Angular 8 and Webcam Machine Learning object detection and Streaming Tensorflow.JS and custom-trained AutoML model and Lambda architecture
 <a href="https://app.darndimples.com">https://app.darndimples.com</a>
 
-Angular 5 and Firebase Real-Time database and Firestore and Mapbox Geo-coordinates and BigQuery and back-end SQL server engine simulators
+Angular 5 and Firebase Realtime Database and Firestore and Mapbox Geo-coordinates and BigQuery and back-end SQL server engine simulators
 <a href="https://app.crashfunction.com">https://app.crashfunction.com</a>
 
 Accelerated Mobile Pages AMP and Progressive Web App PWA for IoT monitoring and NOAA Weather Stations
