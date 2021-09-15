@@ -1,7 +1,7 @@
 ## Welcome to Michael Feldman GitHub Pages
 
 Angular 12 and image annotations
-https://v1.mrgoogol.com
+<i>https://v1.mrgoogol.com</i>
 
 
 ### Support or Contact
