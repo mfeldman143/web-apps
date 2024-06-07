@@ -9,7 +9,7 @@ Michael Feldman specializes in data engineering, Big Data, and databases. With a
   
 - **Angular 16 Global Methane Infrastructure Locations**  
   <img src="/images/meterai.png" width="300" alt="Angular 16 Global Methane Infrastructure Locations">  
-  [View the locations](https://meter-ai.web.app)
+  [View the locations](https://meter-ai.web.app/map)
 
 - **QRcode Interoperability**  
   [Learn more](https://hybridextensions.web.app/)
