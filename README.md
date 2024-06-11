@@ -17,7 +17,7 @@ Michael Feldman specializes in data engineering, Big Data, and databases. With a
 <!-- - **Ad hoc tooling — QRcode Interoperability**  
   [Learn more](https://hybridextensions.web.app/) -->
 
-- **MrGoogol (2020) — Angular 9 — Webcam Machine Learning — TensorFlow.js** [See the webcam in action](https://app.mrgoogol.com)
+- **MrGoogol (2020) — Angular 9 — Webcam Machine Learning — TensorFlow.js** [See the webcam in action](https://app.mrgoogol.com/videoCategories)
   <img src="/images/mrgoogol.webp" width="300" alt="Angular 9 and Webcam and TensorFlow.js and custom-trained AutoML model for Machine Learning classification OpenCV mobilenet 2.1.0" >  
 
 
