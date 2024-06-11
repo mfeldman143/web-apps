@@ -21,7 +21,7 @@ Michael Feldman specializes in data engineering, Big Data, and databases. With a
   <img src="/images/mrgoogol.webp" width="300" alt="Angular 9 and Webcam and TensorFlow.js and custom-trained AutoML model for Machine Learning classification OpenCV mobilenet 2.1.0" >  
 
 
-- **ML Engine (2020) Angular 8 — Authentication and Machine Learning application — Custom Object Detection** [Discover the technology](https://app.darndimples.com)
+- **ML Engine (2020) Angular 8 — Custom Object Detection** [Discover the technology](https://app.darndimples.com)
   <img src="/images/darndimples.webp" width="300" alt="Angular 8 and Custom Trained algorithms" >
 
 - **CrashFunction (2019) — Angular 5 — Firebase Realtime Database — GIS Platform** [Check out the database features](https://app.crashfunction.com)
