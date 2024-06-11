@@ -28,9 +28,8 @@ Michael Feldman specializes in data engineering, Big Data, and databases. With a
   <img src="/images/0crashes.webp" width="300" alt="Angular 5 and Firebase Realtime Database and Firestore and Mapbox Geo-coordinates and BigQuery and back-end SQL server engine simulators" >  
   
 
-- **EnergyPager —  AMP PWA for IoT Monitoring**  
-  [Monitor and Improve energy efficiencies for IoT devices](https://app.energypager.com)
-  <img src="/images/epager.png" width="300" alt="Angular 5 and Firebase Realtime Database, Firestore, Mapbox Geo-coordinates, BigQuery, back-end engine simulators" >  
+- **EnergyPager —  AMP PWA for IoT Monitoring** [Monitor and Improve energy efficiencies for IoT devices](https://app.energypager.com)
+<img src="/images/epager.png" width="300" alt="Angular 5 and Firebase Realtime Database, Firestore, Mapbox Geo-coordinates, BigQuery, back-end engine simulators" >  
 
 ### Contact
 [Michael Feldman on X-Twitter](https://twitter.com/Feldman1Michael)  
