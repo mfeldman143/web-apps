@@ -5,32 +5,32 @@ Michael Feldman specializes in data engineering, Big Data, and databases. With a
 ### Featured Projects (if you see something broken, it's a feature not a bug!)
 
 - **GCloudForum graph networks — framework pending** [Explore the project](https://gcloudforum--map-of-reddit-m8m4sopw.web.app)
-  <img src="/images/gcloudforum.webp" width="300" alt="The GCloudForum!" align="left">  
+  <img src="/images/gcloudforum.webp" width="300" alt="The GCloudForum!" >  
  
 
 - **PickingUp — Angular 18 — Audio Robotics and Cognition Engines** [PickingUp project page](https://pickingup.web.app/)
-  <img src="/images/pickingup.webp" width="300" alt="Angular 18 Audio Robotics and cognition engines" align="left">  
+  <img src="/images/pickingup.webp" width="300" alt="Angular 18 Audio Robotics and cognition engines" >  
   
 - **Methane Emissions — Angular 16 — Global Methane Infrastructure Locations** [View the locations](https://meter-ai.web.app/map) 
-  <img src="/images/meterai.png" width="300" alt="Angular 16 Global Methane Infrastructure Locations" align="left">  
+  <img src="/images/meterai.png" width="300" alt="Angular 16 Global Methane Infrastructure Locations" >  
 
 <!-- - **Ad hoc tooling — QRcode Interoperability**  
   [Learn more](https://hybridextensions.web.app/) -->
 
 - **MrGoogol — Angular 9 — Webcam Machine Learning — TensorFlow.js** [See the webcam in action](https://app.mrgoogol.com)
-  <img src="/images/mrgoogol.webp" width="300" alt="Angular 9 and Webcam and TensorFlow.js and custom-trained AutoML model for Machine Learning classification OpenCV mobilenet 2.1.0" align="left">  
+  <img src="/images/mrgoogol.webp" width="300" alt="Angular 9 and Webcam and TensorFlow.js and custom-trained AutoML model for Machine Learning classification OpenCV mobilenet 2.1.0" >  
 
 
 - **Angular 8 — Machine Learning —  Custom Object Detection** [Discover the technology](https://app.darndimples.com)
-  <img src="/images/darndimples.webp" width="300" alt="Angular 8 and Custom Trained algorithms" align="left">
+  <img src="/images/darndimples.webp" width="300" alt="Angular 8 and Custom Trained algorithms" >
 
 - **CrashFunction — Angular 5 — Firebase Realtime Database — GIS Platform** [Check out the database features](https://app.crashfunction.com)
-  <img src="/images/0crashes.webp" width="300" alt="Angular 5 and Firebase Realtime Database and Firestore and Mapbox Geo-coordinates and BigQuery and back-end SQL server engine simulators" align="left">  
+  <img src="/images/0crashes.webp" width="300" alt="Angular 5 and Firebase Realtime Database and Firestore and Mapbox Geo-coordinates and BigQuery and back-end SQL server engine simulators" >  
   
 
 - **EnergyPager —  AMP PWA for IoT Monitoring**  
   [Monitor and Improve energy efficiencies for IoT devices](https://app.energypager.com)
-  <img src="/images/epager.png" width="300" alt="Angular 5 and Firebase Realtime Database, Firestore, Mapbox Geo-coordinates, BigQuery, back-end engine simulators" align="left">  
+  <img src="/images/epager.png" width="300" alt="Angular 5 and Firebase Realtime Database, Firestore, Mapbox Geo-coordinates, BigQuery, back-end engine simulators" >  
 
 ### Contact
 [Michael Feldman on X-Twitter](https://twitter.com/Feldman1Michael)  
