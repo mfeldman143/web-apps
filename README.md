@@ -23,6 +23,7 @@ Michael Feldman specializes in data engineering, Big Data, and databases. With a
   [See the webcam in action](https://app.mrgoogol.com)
 
 - **Angular 8 — Machine Learning —  Custom Object Detection**  
+  <img src="/images/darndimples.webp" width="300" alt="Angular 8 and Custom Trained algorithms">
   [Discover the technology](https://app.darndimples.com)
 
 - **CrashFunction — Angular 5 — Firebase Realtime Database — GIS Platform**  
