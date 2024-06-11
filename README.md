@@ -24,7 +24,7 @@ Michael Feldman specializes in data engineering, Big Data, and databases. With a
 - **ML Engine (2020) Angular 8 — Custom Object Detection** [Discover the technology](https://app.darndimples.com)
   <img src="/images/darndimples.webp" width="300" alt="Angular 8 and Custom Trained algorithms" >
 
-- **CrashFunction (2019) — Angular 5 — Firebase Realtime Database — GIS Platform** [Check out the database features](https://app.crashfunction.com)
+- **CrashFunction (2019) — Angular 5 — GIS Realtime Platform** [Check out the database features](https://app.crashfunction.com)
   <img src="/images/0crashes.webp" width="300" alt="Angular 5 and Firebase Realtime Database and Firestore and Mapbox Geo-coordinates and BigQuery and back-end SQL server engine simulators" >  
   
 
