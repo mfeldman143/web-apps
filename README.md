@@ -11,7 +11,7 @@ Michael Feldman specializes in data engineering, Big Data, and databases. With a
 - **PickingUp (2024) — Angular 18 — Audio Robotics and Cognition Engines** [PickingUp project page](https://pickingup.web.app/)
   <img src="/images/pickingup.webp" width="300" alt="Angular 18 Audio Robotics and cognition engines" >  
   
-- **Methane Emissions (2023) — Angular 16 — Global Methane Infrastructure Locations** [View the locations](https://meter-ai.web.app/map) 
+- **Methane Emissions (2023) — Angular 16 — Global Methane Infrastructure Locations** [View the locations](https://meter-ai.web.app) 
   <img src="/images/meterai.png" width="300" alt="Angular 16 Global Methane Infrastructure Locations" >  
 
 - **MrGoogol (2020) — Angular 9 — Webcam Machine Learning — TensorFlow.js** [See the webcam in action](https://app.mrgoogol.com/videoCategories)
