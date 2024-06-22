@@ -4,7 +4,7 @@ Michael Feldman specializes in data engineering, Big Data, and databases. With a
 
 ### Featured Projects (if you see something broken, it's a feature not a bug! :)
 
-- **GCloudForum graph networks (Current)— framework pending** [Explore the project](https://gcloudforum.web.app/)
+- **GCloudForum graph networks (Current)— framework pending** [Pending**]
   <img src="/images/gcloudforum.webp" width="300" alt="The GCloudForum!" >  
  
 
