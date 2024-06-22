@@ -14,21 +14,18 @@ Michael Feldman specializes in data engineering, Big Data, and databases. With a
 - **Methane Emissions (2023) — Angular 16 — Global Methane Infrastructure Locations** [View the locations](https://meter-ai.web.app/map) 
   <img src="/images/meterai.png" width="300" alt="Angular 16 Global Methane Infrastructure Locations" >  
 
-<!-- - **Ad hoc tooling — QRcode Interoperability**  
-  [Learn more](https://hybridextensions.web.app/) -->
-
 - **MrGoogol (2020) — Angular 9 — Webcam Machine Learning — TensorFlow.js** [See the webcam in action](https://app.mrgoogol.com/videoCategories)
   <img src="/images/mrgoogol.webp" width="300" alt="Angular 9 and Webcam and TensorFlow.js and custom-trained AutoML model for Machine Learning classification OpenCV mobilenet 2.1.0" >  
 
 
-- **ML Engine (2020) Angular 8 — Custom Object Detection** [Discover the technology](https://app.darndimples.com)
+- **ML Engine (2019) Angular 8 — Custom Object Detection** [Discover the technology](https://app.darndimples.com)
   <img src="/images/darndimples.webp" width="300" alt="Angular 8 and Custom Trained algorithms" >
 
-- **CrashFunction (2019) — Angular 5 — GIS Realtime Platform** [Check out the database features](https://app.crashfunction.com)
+- **CrashFunction (2017) — Angular 5 — GIS Realtime Platform** [Check out the database features](https://app.crashfunction.com)
   <img src="/images/0crashes.webp" width="300" alt="Angular 5 and Firebase Realtime Database and Firestore and Mapbox Geo-coordinates and BigQuery and back-end SQL server engine simulators" >  
   
 
-- **EnergyPager (2018) —  AMP PWA for IoT Monitoring** [Monitor and Improve energy efficiencies for IoT devices](https://app.energypager.com)
+- **EnergyPager (2016) —  AMP PWA for IoT Monitoring** [Monitor and Improve energy efficiencies for IoT devices](https://app.energypager.com)
 <img src="/images/epager.png" width="300" alt="Angular 5 and Firebase Realtime Database, Firestore, Mapbox Geo-coordinates, BigQuery, back-end engine simulators" >  
 
 ### Contact
